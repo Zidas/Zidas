@@ -6,9 +6,8 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ziidani)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ziidani_/)
 
-![Zidas's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidas&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidas&layout=compact&theme=tokyonight)](https://github.com/zidas/github-readme-stats)
+![Zidas's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidas&show_icons=true&theme=tokyonight&locale=pt-br)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidas&layout=compact&theme=tokyonight&locale=pt-br)](https://github.com/zidas/github-readme-stats)
 
 ### Linguagens que eu uso
 <div style="display: inline_block"><br/>
