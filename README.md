@@ -8,7 +8,7 @@
 
 ![Zidas's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidas&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidas&layout=compact)](https://github.com/zidas/github-readme-stats)
 
 ### Linguagens que eu uso
 <div style="display: inline_block"><br/>
